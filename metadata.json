@@ -1,0 +1,6 @@
+{
+  "name": "Kenvoda AI Agency",
+  "description": "High-converting websites and AI automations for local service businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
